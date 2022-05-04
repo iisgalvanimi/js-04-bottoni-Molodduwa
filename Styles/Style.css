@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+    font-size: 120%;
+
+}
+
+.btn-conteiners {
+    display: flex;
+    justify-content: center;
+
+}
+.btn-conteiners > * {
+    width: 250px;
+    height: 125px;
+
+}
+.tab-btn{
+    background-color: rgb(255, 251, 0);
+}
+.tab-btnActiveButtonClass{
+    background-color: wheat
+}
